@@ -18,7 +18,7 @@ Websites to showcase:
 
 Our goal is to make a basic website with login and information
 
-Show example site
+Show [example site](https://codepen.io/brighamband/pen/KKmmyLJ)
 
 First the basics of `HTML` and `CSS`
 

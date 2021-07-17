@@ -18,6 +18,8 @@ Websites to showcase:
 - [Photography](https://photography.brighamband.com)
 - [Portfolio](https://brighamband.com)
 
+Web Development is for everyone!  You have the flexibility to make websites about what you're passionate!
+
 ## Introduce Goal
 
 Our goal is to make a basic website with login and information

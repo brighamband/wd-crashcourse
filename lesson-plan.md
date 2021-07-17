@@ -48,7 +48,7 @@ First the basics of `HTML` and `CSS`
     ```
 - :radio 
     ```
-    <input type="radio" id="mdale" name="gender" value="mfdale">
+    <input type="radio" id="male" name="gender" value="male">
     <label for="male">Male</label><br>
     <input type="radio" id="female" name="gender" value="female">
     <label for="female">Female</label><br>
@@ -109,7 +109,7 @@ Attributes
 - `background-color`
 - `color`
 - `padding`
-- `margin`
+- `margin`  (left, right, top, bottom, auto)
 - `border` (1px solid black)
 - `font-size`
 - `font-weight` (bold)
@@ -117,6 +117,7 @@ Attributes
 - `text-transform: uppercase`
 - `text-decoration: underline`
 - `text-align` (left, center, right)
+- `flex`
 
 ## Making website
 

@@ -92,6 +92,8 @@ First the basics of `HTML` and `CSS`
 </table>
     ```
 
+- `img`
+
 ## CSS Basics
 
 Selectors (tag, class, id)

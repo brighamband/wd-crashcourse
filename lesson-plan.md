@@ -17,6 +17,7 @@ Websites to showcase:
 ## Introduce Goal
 
 Our goal is to make a basic website with login and information
+
 Show example site
 
 First the basics of `HTML` and `CSS`
@@ -29,8 +30,6 @@ First the basics of `HTML` and `CSS`
 - `p`
 - `a`   (`<a href="https://www.google.com">Visit Google</a>`)
 - `button`
-
-- `div`
 
 `textarea`
 
@@ -64,12 +63,41 @@ First the basics of `HTML` and `CSS`
   </select>
   ```
 
+- `div`
+- `ul`, `ol`, `li`
+- `table`, `tr`, `th`, `td`
+    ```
+    <table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+  <tr>
+    <td>Ernst Handel</td>
+    <td>Roland Mendel</td>
+    <td>Austria</td>
+  </tr>
+  </tr>
+</table>
+    ```
+
 ## CSS Basics
 
 Selectors (tag, class, id)
 ```
 html, .class, #id {
-    
+
 }
 ```
 

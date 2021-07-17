@@ -41,6 +41,7 @@ First the basics of `HTML` and `CSS`
 - :color
 - :password
 - :range
+- :label
 - :checkbox
     ```
     <input type="checkbox"><label>Keep me logged in</label>

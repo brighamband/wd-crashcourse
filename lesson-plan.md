@@ -31,7 +31,7 @@ First the basics of `HTML` and `CSS`
 ## HTML Basics
 
 - HTML Boilerplate
-- Change document title
+- Change document `title`
 - `h1`-`h6`
 - `p`
 - `a`   (`<a href="https://www.google.com">Visit Google</a>`)

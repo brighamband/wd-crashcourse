@@ -27,10 +27,12 @@ First the basics of `HTML` and `CSS`
 - Change document title
 - `h1`-`h6`
 - `p`
-- `a`
+- `a`   (`<a href="https://www.google.com">Visit Google</a>`)
 - `button`
 
 - `div`
+
+`textarea`
 
 `input`
 
@@ -41,25 +43,49 @@ First the basics of `HTML` and `CSS`
 - :password
 - :range
 - :checkbox
-- :radio
+    ```
+    <input type="checkbox"><label>Keep me logged in</label>
+    ```
+- :radio 
+    ```
+    <input type="radio" id="mdale" name="gender" value="mfdale">
+    <label for="male">Male</label><br>
+    <input type="radio" id="female" name="gender" value="female">
+    <label for="female">Female</label><br>
+    ```
 
-`textarea`
+`select` and `option` (dropdowns)
+
+ ```
+  <select name="cars">
+    <option value="toyota">Toyota</option>
+    <option value="honda">Honda</option>
+    <option value="chevy">Chevy</option>
+  </select>
+  ```
 
 ## CSS Basics
 
 Selectors (tag, class, id)
+```
+html, .class, #id {
+    
+}
+```
 
 Attributes
 
-- background-color
-- color
-- padding
-- margin
-- border (1px solid black)
-- font-size
-- text-transform: uppercase
-- text-decoration: underline
-- text-align (left, center, right)
+- `background-color`
+- `color`
+- `padding`
+- `margin`
+- `border` (1px solid black)
+- `font-size`
+- `font-weight` (bold)
+- `font-style` (italic)
+- `text-transform: uppercase`
+- `text-decoration: underline`
+- `text-align` (left, center, right)
 
 ## Making website
 

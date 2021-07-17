@@ -1,0 +1,15 @@
+html {
+  background-color: rgb(191, 89, 204);
+}
+
+.blue {
+  color: darkblue;
+}
+
+.caps {
+  text-transform: uppercase;
+}
+
+#second-header {
+  text-decoration: line-through;
+}

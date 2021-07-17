@@ -127,4 +127,6 @@ Attributes
 
 ## Making website
 
-Then dive right into making our website
+Dive right into making our website!
+
+Either build off of [example site](https://codepen.io/brighamband/pen/KKmmyLJ), or if you're feeling daring, [make something original on CodePen](https://codepen.io/pen)!

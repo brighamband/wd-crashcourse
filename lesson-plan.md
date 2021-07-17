@@ -16,7 +16,7 @@ Websites to showcase:
 - [Snake](https://snake.brighamband.com)
 - [Piano](https://piano.brighamband.com)
 - [Photography](https://photography.brighamband.com)
-- [Portfolio](https://portfolio.brighamband.com)
+- [Portfolio](https://brighamband.com)
 
 ## Introduce Goal
 

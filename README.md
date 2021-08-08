@@ -5,7 +5,7 @@
 - [HTML Live Demo CodePen](https://codepen.io/brighamband/pen/mdmQrwE)
 - [HTML Practice Example CodePen](https://codepen.io/brighamband/pen/BaRRGzW)
 - [CSS Live Demo CodePen](https://codepen.io/brighamband/pen/oNWQzWv)
-- [CSS Practice Examples CodePen](https://codepen.io/brighamband/pen/KKmmyLJ)
+- [CSS Practice Example CodePen](https://codepen.io/brighamband/pen/KKmmyLJ)
 
 ## Crash Course 2.0 - JavaScript
 

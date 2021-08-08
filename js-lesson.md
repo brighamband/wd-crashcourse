@@ -1,7 +1,5 @@
 # Intro to Web Dev 2.0 - JavaScript
 
-<br>
-
 ## Introduce Goal
 
 **** FIXME **** SHOW FINAL PRODUCT THEY'LL BE ABLE TO ACHIEVE AFTER TODAY'S LESSOSN *****

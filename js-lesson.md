@@ -1,7 +1,5 @@
 # Intro to Web Dev 2.0 - JavaScript
 
-### See [GitHub](https://github.com/brighamband/wd-crashcourse) for lesson plan and example code
-
 <br>
 
 ## Introduce Goal

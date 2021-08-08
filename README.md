@@ -3,7 +3,7 @@
 ## Crash Course 1.0 - HTML & CSS
 
 ### Lesson Plan
-- [HTML/CSS Lesson Plan](lesson-plan.md)
+- [HTML/CSS Lesson Plan](html-css-lesson.md)
 
 ### CodePens
 - [HTML Live Demo CodePen](https://codepen.io/brighamband/pen/mdmQrwE)
@@ -14,7 +14,7 @@
 ## Crash Course 2.0 - JavaScript
 
 ### Lesson Plan
-- [LESSON PLAN]()
+- [JS Lesson Plan](js-lesson.md)
 
 ### CodePens
 - [JS Live Demo Codepen](https://codepen.io/brighamband/pen/xxdQRGw)

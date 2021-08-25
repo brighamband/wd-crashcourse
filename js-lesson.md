@@ -28,7 +28,7 @@ HTML is the content, CSS is the styling, JS is the interactivity.  JS causes thi
 
 ### JavaScript Functions
 - `console.log()`
-- - `console.error()`
+- `console.error()`
 - `alert()`
 - `confirm()`
 - `addEventListener()` - (Show variation example of hooking up button, except by using `addEventListener` instead of `onClick`)

@@ -36,6 +36,8 @@ HTML is the content, CSS is the styling, JS is the interactivity.  JS causes thi
 ### JavaScript Variables
 - `const` (Constant/Final, can't change) & `let` (able to change)
 - Possible variable types: 
+  - `undefined`
+  - `null`
   - `boolean`
   - `number`
   - `string`

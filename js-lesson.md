@@ -19,8 +19,8 @@ HTML is the content, CSS is the styling, JS is the interactivity.  JS causes thi
 ### How to use JavaScript
 
 2 Types:
-- Inline JavaScript + Example
-- Separate File JavaScript + Example (we'll stick to this one, it's industry standard)
+- Infile JavaScript + Example  (added script tag to bottom of hmtl, js right there)
+- Separate File JavaScript + Example (New file for all our js, then we just add `src` with filename to our script tag.  We'll stick to this one, it's industry standard.)
 
 ### Overview of JavaScript
 

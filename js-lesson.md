@@ -34,11 +34,11 @@ HTML is the content, CSS is the styling, JS is the interactivity.  JS causes thi
 ### JavaScript Variables
 - `const` (Constant/Final, can't change) & `let` (able to change)
 - Possible variable types: 
-- - `boolean`
-- - `number`
-- - `string`
-- - `object`
-- - `array`
+  - `boolean`
+  - `number`
+  - `string`
+  - `object`
+  - `array`
 
 ### DOM Manipulation
 - `document.title = 'This Website` (Change document title)

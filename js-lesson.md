@@ -17,7 +17,7 @@ HTML is the content, CSS is the styling, JS is the interactivity.  JS causes thi
 - This is the main way, the way we'll focus on for this tutorial
 - Quick demo by opening Dev Tools on google.com - How to Change What Google Looks Like
     - Change Google document title to 'My Website'
-    - Refresh and show that changes dissolve
+    - Refresh and show that changes dissolve (doesn't save changes because when the page reloads, it reloads the original HTML, CSS, and JS files, throwing away our temporary changes)
     - Show JS Method: `document.title = 'My Website'` (Once a website is running, we aren't able to explicitly change the HTML, since we can't go in an edit a file for our user while they're using it, but we can use JavaScript to dynamically change HTML, all without reloading the page.)
     - More applicable example, changing to dark mode (`document.querySelector('body').style.background = 'black'`)
 

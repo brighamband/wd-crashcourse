@@ -11,7 +11,7 @@
 HTML is the content, CSS is the styling, JS is the interactivity.  JS causes things to happen when users interact with a webpage with their mouse and keyboard.  JS makes things dynamic (not always the same website every time).
 
 ### Running JavaScript outside of a Web Browser
-- Simple NodeJS demonstration
+- Simple NodeJS demonstration (This one requires more setup since you have to install NodeJS, so I'll just show it on my machine)
 
 ### Running JavaScript in a Browser
 - This is the main way, the way we'll focus on for this tutorial

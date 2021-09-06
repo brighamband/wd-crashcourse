@@ -10,17 +10,28 @@
 
 HTML is the content, CSS is the styling, JS is the interactivity.  JS causes things to happen when users interact with a webpage with their mouse and keyboard.  JS makes things dynamic (not always the same website every time).
 
-### Ways to trigger JavaScript to run
+### Running JavaScript outside of a Web Browser
+- Simple NodeJS demonstration
 
-- On page load (runs entire script not inside of a function
-- On events (events are when user interaction happens like clicking or typing, and we can fire functions when they happen)
-- - `onClick` method with button (Show example)
+### Running JavaScript in a Browser
+- This is the main way, the way we'll focus on for this tutorial
+- Quick demo by opening Dev Tools on google.com
+    - Change Google document title to 'My Website'
+    - Refresh and show that changes dissolve
+    - Show JS Method: `document.title = 'My Website'` (Once a website is running, we aren't able to explicitly change the HTML, since we can't go in an edit a file for our user while they're using it, but we can use JavaScript to dynamically change HTML, all without reloading the page.)
+    - More applicable example, changing to dark mode (`document.querySelector('body').style.background = 'black'`)
 
-### How to use JavaScript
+### How to use JavaScript on your Website
 
 2 Types:
 - Infile JavaScript + Example  (added script tag to bottom of hmtl, js right there)
 - Separate File JavaScript + Example (New file for all our js, then we just add `src` with filename to our script tag.  We'll stick to this one, it's industry standard.)
+
+### Ways to trigger JavaScript to run in Web Browser
+
+- On page load (runs entire script not inside of a function
+- On events (events are when user interaction happens like clicking or typing, and we can fire functions when they happen)
+- - `onClick` method with button (Show example)
 
 ### Overview of JavaScript
 

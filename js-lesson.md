@@ -56,5 +56,6 @@ HTML is the content, CSS is the styling, JS is the interactivity.  JS causes thi
   - `array`
 
 ### DOM Manipulation
-- `document.title = 'This Website` (Change document title)
-- `thisElement.innerHTML = '<h1>Hello</h1>'` (Change element inner HTML contents)
+- `document.title = 'This Website` - Change document title (Change the HTML meta data)
+- `thisElement.innerHTML = '<h1>Hello</h1>'` - Change element inner HTML contents
+- `document.querySelector('body').style.background = 'black'` - The example we saw earlier (You can change CSS too, not just HTML)

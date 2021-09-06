@@ -21,7 +21,7 @@ HTML is the content, CSS is the styling, JS is the interactivity.  JS causes thi
     - Show JS Method: `document.title = 'My Website'` (Once a website is running, we aren't able to explicitly change the HTML, since we can't go in an edit a file for our user while they're using it, but we can use JavaScript to dynamically change HTML, all without reloading the page.)
     - More applicable example, changing to dark mode (`document.querySelector('body').style.background = 'black'`)
 
-### How to use JavaScript on your Website
+### How to Setup/Organize JavaScript in your Website Project
 
 2 Types:
 - Infile JavaScript + Example  (added script tag to bottom of hmtl, js right there)

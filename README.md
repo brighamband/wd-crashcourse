@@ -14,7 +14,7 @@
 ## Crash Course 2.0 - JavaScript
 
 ### Lesson Plan
-- [JS Lesson Plan](js-lesson.md)
+- [JS Lesson Plan](js/js-lesson.md)
 
 ### CodePens
 - [JS Live Demo Codepen](https://codepen.io/brighamband/pen/xxdQRGw)

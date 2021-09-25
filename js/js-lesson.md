@@ -37,7 +37,7 @@ HTML is the content, CSS is the styling, JS is the interactivity.  JS causes thi
 
 - Has variables, functions, classes, just like any language
 
-### JavaScript Variables
+### JavaScript Variables (Demo this is Chrome Dev Tools so it returns the type)
 - `const` (Constant/Final, can't change) & `let` (able to change)
 - Possible variable types: 
   - `undefined` (variable declared, but not assigned)
@@ -48,7 +48,13 @@ HTML is the content, CSS is the styling, JS is the interactivity.  JS causes thi
   - `object`
   - `array`
 
-- Activity - Give a possible variable, you give a type
+- Activity - Give a possible variable, you give a type (Demo this is Chrome Dev Tools so it returns the type)
+    - name (`string`)
+    - age (`number`)
+    - oldEnoughToDrive (`boolean`)
+    - pi (`number`) - not just ints, also floats
+    - seasons - `['spring','summer','fall','winter']` (`list` of `strings`)
+    - testScores - `[89,75,62,99,100]` (`list` of `numbers`)
 
 ### JavaScript Functions
 - `console.log()`

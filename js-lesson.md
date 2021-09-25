@@ -37,13 +37,6 @@ HTML is the content, CSS is the styling, JS is the interactivity.  JS causes thi
 
 - Has variables, functions, classes, just like any language
 
-### JavaScript Functions
-- `console.log()`
-- `console.error()`
-- `alert()`
-- `confirm()`
-- `addEventListener()` - (Show variation example of hooking up button, except by using `addEventListener` instead of `onClick`)
-
 ### JavaScript Variables
 - `const` (Constant/Final, can't change) & `let` (able to change)
 - Possible variable types: 
@@ -54,6 +47,21 @@ HTML is the content, CSS is the styling, JS is the interactivity.  JS causes thi
   - `string`
   - `object`
   - `array`
+
+- Activity - Give a possible variable, you give a type
+
+### JavaScript Functions
+- `console.log()`
+- `console.error()`
+- `alert()`
+- `confirm()`
+- `addEventListener()` - (Show variation example of hooking up button, except by using `addEventListener` instead of `onClick`)
+
+- Activity - CodePen Alert Adventure Activity
+    - After you've explained how to do alerts and the other functions, show how you can chain them together meaningfully.
+    - Introduce the CodePen, then turn them loose and let them customize it how they want.
+
+
 
 ### DOM Manipulation
 - `document.title = 'This Website` - Change document title (Change the HTML meta data)

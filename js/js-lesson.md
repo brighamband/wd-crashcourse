@@ -61,6 +61,7 @@ HTML is the content, CSS is the styling, JS is the interactivity.  JS causes thi
 - `console.error()`
 - `alert()`
 - `confirm()`
+- `prompt()`
 - `addEventListener()` - (Show variation example of hooking up button, except by using `addEventListener` instead of `onClick`)
 
 - Activity - CodePen Alert Adventure Activity

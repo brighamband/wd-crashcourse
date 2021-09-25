@@ -18,4 +18,5 @@
 
 ### CodePens
 - [JS Live Demo Codepen](https://codepen.io/brighamband/pen/xxdQRGw)
+- [JS Popup - Create a Hero](https://codepen.io/brighamband/pen/QWgZgMx)
 - [JS Practice Example Codepen](https://codepen.io/brighamband/pen/OJmaWxL)

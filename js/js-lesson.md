@@ -37,9 +37,9 @@ HTML is the content, CSS is the styling, JS is the interactivity.  JS causes thi
 
 - Has variables, functions, classes, just like any language
 
-### JavaScript Variables (Demo this is Chrome Dev Tools so it returns the type)
+### JavaScript Variables 
 - `const` (Constant/Final, can't change) & `let` (able to change)
-- Possible variable types: 
+- Possible variable types:      (Demo this is Chrome Dev Tools so it returns the type)
   - `undefined` (variable declared, but not assigned)
   - `null`  (variable assigned to an empty value)
   - `boolean`

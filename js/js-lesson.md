@@ -73,3 +73,7 @@ HTML is the content, CSS is the styling, JS is the interactivity.  JS causes thi
 - `document.title = 'This Website` - Change document title (Change the HTML meta data)
 - `thisElement.innerHTML = '<h1>Hello</h1>'` - Change element inner HTML contents
 - `document.querySelector('body').style.background = 'black'` - The example we saw earlier (You can change CSS too, not just HTML)
+
+### Conclusion
+- Review concepts
+- By building off these basics, we can make our webpages much more interactable, like this one here:  https://codepen.io/wesbos/pen/evsuw?editors=1000

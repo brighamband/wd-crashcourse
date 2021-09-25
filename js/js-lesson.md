@@ -1,14 +1,12 @@
 # Intro to Web Dev 2.0 - JavaScript
 
-## Introduce Goal
-
-**** FIXME **** SHOW FINAL PRODUCT THEY'LL BE ABLE TO ACHIEVE AFTER TODAY'S LESSOSN *****
-
-## Lesson
-
 ### What is JavaScript?
 
 HTML is the content, CSS is the styling, JS is the interactivity.  JS causes things to happen when users interact with a webpage with their mouse and keyboard.  JS makes things dynamic (not always the same website every time).
+
+### Why JavaScript?
+
+Google `js popularity`
 
 ### Running JavaScript outside of a Web Browser
 - Simple NodeJS demonstration (This one requires more setup since you have to install NodeJS, so I'll just show it on my machine)
@@ -37,9 +35,9 @@ HTML is the content, CSS is the styling, JS is the interactivity.  JS causes thi
 
 - Has variables, functions, classes, just like any language
 
-### JavaScript Variables
+### JavaScript Variables 
 - `const` (Constant/Final, can't change) & `let` (able to change)
-- Possible variable types: 
+- Possible variable types:      (Demo this is Chrome Dev Tools so it returns the type)
   - `undefined` (variable declared, but not assigned)
   - `null`  (variable assigned to an empty value)
   - `boolean`
@@ -48,22 +46,34 @@ HTML is the content, CSS is the styling, JS is the interactivity.  JS causes thi
   - `object`
   - `array`
 
-- Activity - Give a possible variable, you give a type
+- Activity - Give a possible variable, you give a type (Demo this is Chrome Dev Tools so it returns the type)
+    - name (`string`)
+    - age (`number`)
+    - oldEnoughToDrive (`boolean`)
+    - pi (`number`) - not just ints, also floats
+    - seasons - `['spring','summer','fall','winter']` (`list` of `strings`)
+    - testScores - `[89,75,62,99,100]` (`list` of `numbers`)
 
 ### JavaScript Functions
 - `console.log()`
 - `console.error()`
 - `alert()`
 - `confirm()`
+- `prompt()`
 - `addEventListener()` - (Show variation example of hooking up button, except by using `addEventListener` instead of `onClick`)
-
-- Activity - CodePen Alert Adventure Activity
-    - After you've explained how to do alerts and the other functions, show how you can chain them together meaningfully.
-    - Introduce the CodePen, then turn them loose and let them customize it how they want.
-
 
 
 ### DOM Manipulation
 - `document.title = 'This Website` - Change document title (Change the HTML meta data)
 - `thisElement.innerHTML = '<h1>Hello</h1>'` - Change element inner HTML contents
 - `document.querySelector('body').style.background = 'black'` - The example we saw earlier (You can change CSS too, not just HTML)
+
+
+Activity - [CodePen - Create a Hero](https://codepen.io/brighamband/pen/QWgZgMx)
+    - After you've explained how to do alerts and the other functions, show how you can chain them together meaningfully.
+    - Introduce the CodePen, then turn them loose and let them customize it how they want.
+
+
+### Conclusion
+- Review concepts
+- By building off these basics, we can make our webpages much more interactable, like this one here:  https://codepen.io/wesbos/pen/evsuw?editors=1000

@@ -67,7 +67,7 @@ HTML is the content, CSS is the styling, JS is the interactivity.  JS causes thi
 - `document.querySelector('body').style.background = 'black'` - The example we saw earlier (You can change CSS too, not just HTML)
 
 
-Activity - [CodePen - Create a Hero](https://codepen.io/brighamband/pen/QWgZgMx?editors=1010)
+Activity - [CodePen - Create a Hero](https://codepen.io/brighamband/pen/QWgZgMx)
     - After you've explained how to do alerts and the other functions, show how you can chain them together meaningfully.
     - Introduce the CodePen, then turn them loose and let them customize it how they want.
 

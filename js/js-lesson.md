@@ -64,7 +64,7 @@ HTML is the content, CSS is the styling, JS is the interactivity.  JS causes thi
 - `prompt()`
 - `addEventListener()` - (Show variation example of hooking up button, except by using `addEventListener` instead of `onClick`)
 
-- Activity - CodePen Popups Hero Maker Activity
+- Activity - CodePen Popups - Create a Hero
     - After you've explained how to do alerts and the other functions, show how you can chain them together meaningfully.
     - Introduce the CodePen, then turn them loose and let them customize it how they want.
 

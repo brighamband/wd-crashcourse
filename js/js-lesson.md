@@ -1,9 +1,5 @@
 # Intro to Web Dev 2.0 - JavaScript
 
-## Introduce Goal
-
-**** FIXME **** SHOW FINAL PRODUCT THEY'LL BE ABLE TO ACHIEVE AFTER TODAY'S LESSOSN *****
-
 ## Lesson
 
 ### What is JavaScript?
@@ -64,16 +60,19 @@ HTML is the content, CSS is the styling, JS is the interactivity.  JS causes thi
 - `prompt()`
 - `addEventListener()` - (Show variation example of hooking up button, except by using `addEventListener` instead of `onClick`)
 
-- Activity - CodePen Popups - Create a Hero
-    - After you've explained how to do alerts and the other functions, show how you can chain them together meaningfully.
-    - Introduce the CodePen, then turn them loose and let them customize it how they want.
-
-
 
 ### DOM Manipulation
 - `document.title = 'This Website` - Change document title (Change the HTML meta data)
 - `thisElement.innerHTML = '<h1>Hello</h1>'` - Change element inner HTML contents
 - `document.querySelector('body').style.background = 'black'` - The example we saw earlier (You can change CSS too, not just HTML)
+
+
+Activity - CodePen Popups - Create a Hero
+    - After you've explained how to do alerts and the other functions, show how you can chain them together meaningfully.
+    - Introduce the CodePen, then turn them loose and let them customize it how they want.
+
+
+
 
 ### Conclusion
 - Review concepts
